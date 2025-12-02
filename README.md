@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazil-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-shaik" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Agno+AiAgents**
 
 - 📫 How to reach me **fazilshaik103@gmail.com**
 
